@@ -4,5 +4,3 @@ List of Architecture and Code guidelines at [Nuevo Softwarehouse](https://www.nu
 
 ## TODO
 
-
-- [ ] Mercury
