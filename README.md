@@ -4,3 +4,8 @@ List of Architecture and Code guidelines at [Nuevo Softwarehouse](https://www.nu
 
 ## TODO
 
+
+- [ ] Naming convention
+- [ ] Package Guideline
+- [ ] Android Studio Live Templates
+- [ ] Boilerplate App
