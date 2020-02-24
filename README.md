@@ -6,6 +6,9 @@ List of Architecture and Code guidelines at [Nuevo Softwarehouse](https://www.nu
 
 
 - [ ] Naming convention
+- [ ] Kotlin Style Guide
 - [ ] Package Guideline
+- [ ] Architecture guideline
 - [ ] Android Studio Live Templates
 - [ ] Boilerplate App
+
