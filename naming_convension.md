@@ -15,9 +15,9 @@ Names of classes and objects start with an upper case letter and use the camel c
 ```kotlin
 data class SomeDataClass { /*...*/ }
 
-class SplashActivity: AppCompatActivity() { /*...*/ }
+class MainActivity: AppCompatActivity() { /*...*/ }
 
-class LoginErrorDialog: Dialog() { /*...*/ }
+class ErrorDialog: Dialog() { /*...*/ }
 ```
 
 ## Function names
@@ -25,7 +25,6 @@ class LoginErrorDialog: Dialog() { /*...*/ }
 Names of functions, properties and local variables start with a lower case letter and use the camel case and no underscores:
 
 ```kotlin
-
 fun someFunctions() { /*...*/ }
 
 var someVariable = 1
