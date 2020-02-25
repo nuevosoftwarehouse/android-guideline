@@ -113,7 +113,7 @@ const val DURATION_MS_OPENING_ANIMATION = 300
 # License
 
 ```
-Copyright 2020 Nuevosoftwarehouse.
+Copyright 2020 Nuevo Softwarehouse.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
