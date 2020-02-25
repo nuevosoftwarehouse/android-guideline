@@ -12,3 +12,7 @@ List of Architecture and Code guidelines at [Nuevo Softwarehouse](https://www.nu
 - [ ] Android Studio Live Templates
 - [ ] Boilerplate App
 
+
+
+
+
