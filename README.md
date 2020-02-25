@@ -4,7 +4,7 @@ List of Architecture and Code guidelines at [Nuevo Softwarehouse](https://www.nu
 
 ## TODO
 
-- [ ] Naming convention(naming_convension.md)
+- [ ] [Naming convention](naming_convension.md)
 - [ ] Kotlin Style Guide
 - [ ] Package Guideline
 - [ ] Architecture guideline
